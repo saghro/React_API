@@ -1,0 +1,14 @@
+.my-table {
+    width: 80%;
+    margin: auto;
+}
+
+.my-table th {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+.my-table td {
+    text-align: center;
+}
